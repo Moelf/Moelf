@@ -1,4 +1,4 @@
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=Moelf&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,php,css,python,shell">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=Moelf&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,php,css,tex,python,shell">
 </p>
 
 ### Stats (glance value)
