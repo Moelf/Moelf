@@ -1,7 +1,4 @@
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=Moelf&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,php,css,tex,shell">
-</p>
-
-### Stats (glance value)
+### Stats (glance value only)
 - - -
 <p align="left">
   <img src ="https://github-readme-stats.vercel.app/api?username=Moelf&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&include_all_commits=true">
