@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=cc241d)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=cc241d)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim%20Code&logoColor=white&color=cc241d)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=cc241d)
+![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=Fish&logoColor=white&color=cc241d)
 
 
 
