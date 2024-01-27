@@ -1,5 +1,5 @@
 <p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Moelf&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&include_all_commits=true">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Moelf&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues">
 
 
 ### Tools I enjoy
