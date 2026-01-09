@@ -1,7 +1,3 @@
-<p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Moelf&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues">
-
-
 ### Tools I know and love
 
 [![](https://img.shields.io/badge/ArchLinux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=cc241d)](https://archlinux.org)
